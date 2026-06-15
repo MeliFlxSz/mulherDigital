@@ -1,6 +1,6 @@
 # mulherDigital
 
-Repositório voltado para anotações do programa Mulher Digital.
+Repositório voltado para anotações do Programa Mulher Digital.
 
 ## 👩‍💻 Sobre mim
 
